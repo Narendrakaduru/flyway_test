@@ -1,3 +1,3 @@
-INSERT INTO employee VALUES(1004,'gani');
-INSERT INTO employee VALUES(1005,'raja');
-INSERT INTO employee VALUES(1006,'mani');
+INSERT INTO student VALUES(1004,'gani');
+INSERT INTO student VALUES(1005,'raja');
+INSERT INTO student VALUES(1006,'mani');
